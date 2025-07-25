@@ -1,3 +1,4 @@
 streamlit
 PyPDF2
 spacy
+scikit_learn
