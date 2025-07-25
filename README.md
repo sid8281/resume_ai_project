@@ -13,4 +13,6 @@ python -m spacy download en_core_web_sm
 streamlit run app.py
 ```
 
-3. Upload a resume (PDF) and get analysis + job recommendation.
+3. Deployed app on Streamlit link: https://resumeaiproject-ksa6qj27migzkj67npg759.streamlit.app/
+
+4. Upload a resume (PDF) and get analysis + job recommendation.
